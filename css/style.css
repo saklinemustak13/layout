@@ -1,0 +1,13 @@
+/* style.css */
+.header, .hero, .body, .bar, .footer{
+    background-color: gray;
+    margin-bottom: 10px;
+}
+.box{
+    margin: 10px 0;
+    height: 80px;
+    font-size: 30px;
+    color: white;
+}
+.green { background-color: green; }
+.red { background-color: red; }
